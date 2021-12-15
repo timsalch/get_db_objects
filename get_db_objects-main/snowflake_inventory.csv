@@ -1,0 +1,7 @@
+project,database,schema,object_type,object_name,signature
+edc,timsdb2,parentschema,table,t1,na
+edc,timsdb2,parentschema,view,v1,na
+edc,timsdb2,parentschema,procedure,myproc,varchar
+edc,timsdb2,parentschema,function,myfunc,varchar
+edc,timsdb2,parentschema,jobmetadata,job_attribute,na
+edc,timddb2,parentschema,procedure,myproc2,"varchar,varchar"
